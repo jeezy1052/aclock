@@ -73,3 +73,27 @@ a:hover {
   color:white;
   
 }
+
+.hour1 {
+  width: 100px;
+  height: 100px;
+
+  background-color: black;
+  color: white;
+  
+}
+
+h3 {
+  margin-left: 14px;
+  width: 20px;
+  padding: 10px;
+
+  
+  
+}
+h4 {
+  background-color: gray;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
